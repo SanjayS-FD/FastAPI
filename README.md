@@ -77,3 +77,5 @@ This project uses GitHub Actions for continuous integration and deployment. See 
 
 
 --host 0.0.0.0 --port $PORT
+
+curl -X POST https://api.render.com/deploy/srv-da7uengu01pc73c1u1rg?key=CTsFnr65cCk
