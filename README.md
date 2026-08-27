@@ -74,3 +74,6 @@ This project uses GitHub Actions for continuous integration and deployment. See 
 3. Commit and push your changes
 4. GitHub Actions will automatically run tests
 5. If tests pass and you push to main, deployment will be triggered
+
+
+--host 0.0.0.0 --port $PORT
